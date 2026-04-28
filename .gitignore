@@ -20,6 +20,9 @@ build/
 dist/
 *.spec.bak
 
+# Inno Setup 安装包输出
+dist-installer/
+
 # OS / editor
 Thumbs.db
 ehthumbs.db
